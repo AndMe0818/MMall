@@ -1,4 +1,5 @@
-# super
+# 移动端电商项目
+## 项目 采用 vuecli2,axios， better-scroll 等框架
 
 > A Vue.js project
 
